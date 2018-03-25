@@ -2,12 +2,12 @@
 A poc on battleship game.
 
 Build Steps:
-1. Extract BattleShip_Challenge.zip
+1. Clone the repository.
 2. Run MsBuild on BattleShip_Challenge.sln file using following command
 	msbuild BattleShip_Challenge.sln
-3. Executing above command will create BattleShip_Challenge.exe in $ROOT\BattleShip_Challenge\BattleShip_Challenge\bin\Debug folder
+3. Executing above command will create BattleShip_Challenge.exe in $ROOT\battleship\BattleShip_Challenge\bin\Debug folder
 4. Run the exe to check the result
-5. In order to run other test cases feel free to change TestFile.txt under $ROOT\BattleShip_Challenge\BattleShip_Challenge\TestFile.txt
+5. In order to run other test cases feel free to change TestFile.txt under $ROOT\battleship\BattleShip_Challenge\TestFile.txt
 
 
 
